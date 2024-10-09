@@ -18,36 +18,7 @@ To get started with this template, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-Aquí está el README.md en un solo bloque continuo, sin separación:
-
-markdown
-Copiar código
-
-# React JS + Vite + Tailwind CSS + DaisyUI + ESLint + Prettier Template
-
-This template provides a starting point for React projects using Vite as the build tool, Tailwind CSS for styling, DaisyUI for additional UI components, ESLint for code linting, and Prettier for code formatting.
-
-## Features
-
-- **React JS:** A JavaScript library for building user interfaces.
-- **Vite:** A fast build tool and development server.
-- **Tailwind CSS:** A utility-first CSS framework.
-- **DaisyUI:** A Tailwind CSS component library for faster UI development.
-- **ESLint:** A tool for identifying and fixing problems in your JavaScript code.
-- **Prettier:** An opinionated code formatter.
-
-## Getting Started
-
-To get started with this template, follow these steps:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/tomi-casabona/template-ReactJs
 cd your-repo-name
 ```
 
